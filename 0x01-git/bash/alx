@@ -1,7 +1,4 @@
-The school is open
-cd ..
-
-its opened
-
-cat schoo
-		
+echo
+#!/bin/bash
+ALX
+echo ALX
